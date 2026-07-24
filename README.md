@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
-<h3 align="center">I am Fullstack Software Engineer with 2+ years of experience building and improving production web applications used by real users. Passionate about scalable backend systems, product thinking, and continuously improving code quality.</h3>
+<h3 align="center">I am a Fullstack Software Developer with experience in building and improving production web applications used by real users. Passionate about scalable backend systems, product thinking, and continuously improving code quality.</h3>
 
 - 🔭 I’m currently working on **Netflix Clone App**
 
